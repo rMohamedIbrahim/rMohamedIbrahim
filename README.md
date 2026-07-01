@@ -327,7 +327,7 @@ enabling customers to try clothes digitally before purchase.
 
 ### `◈  CONTRIBUTION GRID`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1b2a&color=60A5FA&line=3B82F6&point=A78BFA&area=true&area_color=1e3a5f&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rMohamedIbrahim&bg_color=0d1b2a&color=60A5FA&line=3B82F6&point=A78BFA&area=true&area_color=1e3a5f&hide_border=true"/>
 
 </div>
 
